@@ -2,6 +2,8 @@
 ServerMod is on its own repo now: https://github.com/Grover-c13/Smod2/
 
 # MultiAdmin
+This fork is now unused. The project to re-write MultiAdmin was originally supposed to be a separate program, but ended up replacing the old MultiAdmin. The latest version can now be found at the original repo https://github.com/Grover-c13/MultiAdmin.
+
 MultiAdmin is a replacement server tool for SCP: Secret Laboratory, which was built to help enable servers to have multiple configurations per server instance.
 
 The latest release can be found here: [Release link](https://github.com/Dankrushen/MultiAdmin/releases/latest)
